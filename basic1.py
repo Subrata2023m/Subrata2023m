@@ -11,7 +11,7 @@ price2 = 6
 total_price1 = quan1 * price1
 total_price2 = quan2 * price2
 
-discount = 5
+discount = 6
 
 total = total_price1 + total_price2
 
